@@ -1,2 +1,2 @@
-# persona
+# personaai
 personality test
